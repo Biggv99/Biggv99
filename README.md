@@ -1,6 +1,6 @@
 <div align="center">
 
-# Giorgio Venturella
+<img src="assets/name.svg" alt="Giorgio Venturella" />
 
 ### Junior Full Stack Developer
 
