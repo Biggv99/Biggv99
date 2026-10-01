@@ -18,10 +18,11 @@
 <div align="center">
 
 #  :red_car: La patente
-> [!TIP] 
-> chi sono
 
 </div>
+
+> [!TIP] 
+> chi sono
 
 Sono uno sviluppatore Full Stack. Amo creare ecosistemi dove tutto comunica perfettamente come in un'orchestra: dall'applicazione in Flutter al sito web, passando per il backend fino alla gestione e persistenza dei dati sul database.
 
@@ -37,10 +38,11 @@ Per me l'efficienza e la sicurezza non sono optional, ma la base di tutto. Sono 
 <div align="center">
 
 # 🧰 Il bagagliaio
-> [!TIP] 
-> tech stack
 
 </div>
+
+> [!TIP] 
+> tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -71,10 +73,11 @@ Nel mio bagagliaio ci sono gli strumenti con cui preferisco guidare:
 <div align="center">
 
 # 🛠️ L'officina
-> [!TIP] 
-> progetti
 
 </div>
+
+> [!TIP] 
+> progetti
 
 La maggior parte dei miei progetti principali è privata per questioni di sicurezza, ma ecco alcuni lavori per farmi conoscere:
 
@@ -90,6 +93,9 @@ La maggior parte dei miei progetti principali è privata per questioni di sicure
 <div align="center">
 
 # 📊 Il tachimetro 
+
+</div>
+
 > [!TIP] 
 > statistiche
 
@@ -98,7 +104,6 @@ La maggior parte dei miei progetti principali è privata per questioni di sicure
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biggv99&layout=compact&theme=transparent&hide_border=true&title_color=45a236" alt="I miei linguaggi" width="45%" />
 </p>
 
-</div>
 
 <!-- CONTATTI --> 
 <br>
@@ -108,9 +113,10 @@ La maggior parte dei miei progetti principali è privata per questioni di sicure
 <div align="center">
 
 # 📫 Facciamo un giro?
+  
+</div>
+
 > [!TIP] 
 > contatti
 
 ### 📧 Email: [gventurella99@gmail.com](mailto:gventurella99@gmail.com)
-  
-</div>
