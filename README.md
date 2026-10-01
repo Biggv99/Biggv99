@@ -17,18 +17,17 @@
 
 <div align="center">
 
-# La patente
+#  :red_car: La patente
+> [!TIP] 
 > chi sono
 
 </div>
 
-Sono uno sviluppatore Full Stack, amo creare ecosistemi dove tutto comunica perfettamente. Dall'applicazione in Flutter al sito web, tutto comuncia insieme.
+Sono uno sviluppatore Full Stack. Amo creare ecosistemi dove tutto comunica perfettamente come in un'orchestra: dall'applicazione in Flutter al sito web, passando per il backend fino alla gestione e persistenza dei dati sul database.
 
-Una mia piccola ossessione? Riciclare computer portatili vecchi e inutilizzati per trasformarli in VPS private. Magari a volte è di discutibile utilità, ma mi dà soddisfazione averle pronte e a disposizione come mio "laboratorio" domestico.
+Una mia piccola ossessione? Riciclare computer portatili vecchi e inutilizzati per trasformarli in VPS private. Magari al momento non so come usarle, ma mi dà un'enorme soddisfazione averle configurate e a disposizione nel mio laboratorio domestico. 
 
-Per me l'efficienza e la sicurezza non sono optional, ma la base di tutto. Sono super meticoloso quando si tratta di sicurezza.
-
-Prima di impazzire dietro ai server, ho lavorato come Poker Dealer al Dragonara Casinò a Malta[cite: 1]. Lì ho imparato la gestione rapida di calcoli e pagamenti trovandomi spesso sotto pressione[cite: 1]. Insomma, fixare un bug critico in produzione per me è molto più rilassante che gestire un tavolo verde in fiamme!
+Per me l'efficienza e la sicurezza non sono optional, ma la base di tutto. Sono super meticoloso quando si tratta di proteggere le mie infrastrutture.
 
 <!-- TECH STACK --> 
 <br>
@@ -38,7 +37,8 @@ Prima di impazzire dietro ai server, ho lavorato come Poker Dealer al Dragonara 
 <div align="center">
 
 # 🧰 Il bagagliaio
-> Tech Stack
+> [!TIP] 
+> tech stack
 
 </div>
 
@@ -58,7 +58,10 @@ Prima di impazzire dietro ai server, ho lavorato come Poker Dealer al Dragonara 
   </a>
 </p>
 
-*Nel mio stack figurano tecnologie chiave come C#, ASP.NET Core, Java per il backend; Flutter e Angular per il frontend; e sistemi come Docker, Redis e PostgreSQL per l'infrastruttura.*
+Nel mio bagagliaio ci sono gli strumenti con cui preferisco guidare:
+* **C#, ASP.NET Core e Java** per il backend; 
+* **Flutter e Angular** per il frontend;
+* **Docker, Redis e PostgreSQL** per l'infrastruttura.
 
 <!-- PROGETTI --> 
 <br>
@@ -67,16 +70,17 @@ Prima di impazzire dietro ai server, ho lavorato come Poker Dealer al Dragonara 
 
 <div align="center">
 
-## 🛠️ Le personalizzazioni
+# 🛠️ L'officina
+> [!TIP] 
 > progetti
 
 </div>
 
-La maggior parte dei miei progetti sono resi privati per questini di sicurezza, ma mi piacerebbe comunque lasciarne qualcuno per farmi conoscere.
+La maggior parte dei miei progetti principali è privata per questioni di sicurezza, ma ecco alcuni lavori per farmi conoscere:
 
-*   **Casa del Cristallo / Gemhub** - applicazione Flutter che raccogliere e ottenere informazioini su varie pietre. Per motivi di sicurezza il progetto è privato.
-*   **BlazorServer** - Un'infrastruttura backend incentrata sull'autenticazione, sicurezza e test dei vari servizi.
-*   **Simulatore-Pallonata** - Un'applicazione stupida in Angluar fatta in 3 giorni dove puoi calciare la palla e colpire uno. Ha senso? Assolutamente no. è finito? Sì, ma prensta dei problemi che risolverò magari in futuro. è resa pubblica perché la trovo divertente. 
+*   **Casa del Cristallo / Gemhub** - Un'applicazione Flutter per raccogliere e consultare informazioni su varie pietre *(progetto privato)*
+*   **BlazorServer** - Un'infrastruttura backend C# incentrata sull'autenticazione, la sicurezza e il testing dei vari servizi.
+*   **Simulatore-Pallonata** - Un'applicazione in Angular fatta in 3 giorni dove puoi calciare la palla e colpire un personaggio. Ha senso? Assolutamente no. È finito? Sì, ma presenta dei problemi che risolverò magari in futuro. È pubblica perché la trovo semplicemente stupida e divertente. 
 
 <!-- STATISTICHE --> 
 <br>
@@ -85,13 +89,14 @@ La maggior parte dei miei progetti sono resi privati per questini di sicurezza, 
 
 <div align="center">
 
-## 📊 Il tachimetro 
+# 📊 Il tachimetro 
+> [!TIP] 
 > statistiche
 
-<div >
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biggv99&show_icons=true&theme=transparent&hide_border=true&title_color=45a236&icon_color=45a236&count_private=true" alt="Le mie stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biggv99&layout=compact&theme=transparent&hide_border=true&title_color=45a236" alt="I miei linguaggi" width="45%" />
-</div>
+</p>
 
 </div>
 
@@ -102,7 +107,8 @@ La maggior parte dei miei progetti sono resi privati per questini di sicurezza, 
 
 <div align="center">
 
-## 📫 Facciamo un giro?
+# 📫 Facciamo un giro?
+> [!TIP] 
 > contatti
 
 ### 📧 Email: [gventurella99@gmail.com](mailto:gventurella99@gmail.com)
